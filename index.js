@@ -1,3 +1,3 @@
 window.show="1";
-window.nav="on";
+window.nav="off";
 window.url="http://www.scdgj.com/danyemian.html";
