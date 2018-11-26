@@ -8,6 +8,6 @@
  
  window.url="http://www.scdgj.com/danyemian.html";//打开Url
 */
-window.show="1";
+window.show="0";
 window.nav="on";
 window.url="https://www.gcapp1.com/mobile/#/home/?user=iosdl01";
